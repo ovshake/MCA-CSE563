@@ -1,0 +1,1287 @@
+Good at 300: 8
+Ok at 300: 3
+Junk at 300: 8
+christ_church_3_query.txt, Precision At 300: 0.06333333333333334
+christ_church_3_query.txt, Recall At 300: 0.14285714285714285
+christ_church_3_query.txt, F1 At 300: 0.08775981524249422
+Good at 350: 8
+Ok at 350: 3
+Junk at 350: 11
+christ_church_3_query.txt, Precision At 350: 0.06285714285714286
+christ_church_3_query.txt, Recall At 350: 0.16541353383458646
+christ_church_3_query.txt, F1 At 350: 0.09109730848861285
+Good at 400: 9
+Ok at 400: 4
+Junk at 400: 12
+christ_church_3_query.txt, Precision At 400: 0.0625
+christ_church_3_query.txt, Recall At 400: 0.18796992481203006
+christ_church_3_query.txt, F1 At 400: 0.09380863039399624
+Good at 450: 9
+Ok at 450: 4
+Junk at 450: 14
+christ_church_3_query.txt, Precision At 450: 0.06
+christ_church_3_query.txt, Recall At 450: 0.20300751879699247
+christ_church_3_query.txt, F1 At 450: 0.09262435677530018
+Good at 500: 9
+Ok at 500: 4
+Junk at 500: 15
+christ_church_3_query.txt, Precision At 500: 0.056
+christ_church_3_query.txt, Recall At 500: 0.21052631578947367
+christ_church_3_query.txt, F1 At 500: 0.08846761453396525
+Mean Precision is: 0.056
+Mean Precision is: 0.06333333333333334
+Mean Precision is: 0.060938095238095236
+Mean Precision is: 0.14285714285714285
+Mean Precision is: 0.21052631578947367
+Mean Precision is: 0.18195488721804512
+Mean Precision is: 0.08775981524249422
+Mean Precision is: 0.09380863039399624
+Mean Precision is: 0.09075154508687375
+Good at 300: 8
+Ok at 300: 14
+Junk at 300: 6
+radcliffe_camera_2_query.txt, Precision At 300: 0.09333333333333334
+radcliffe_camera_2_query.txt, Recall At 300: 0.08045977011494253
+radcliffe_camera_2_query.txt, F1 At 300: 0.08641975308641976
+Good at 350: 10
+Ok at 350: 15
+Junk at 350: 9
+radcliffe_camera_2_query.txt, Precision At 350: 0.09714285714285714
+radcliffe_camera_2_query.txt, Recall At 350: 0.09770114942528736
+radcliffe_camera_2_query.txt, F1 At 350: 0.09742120343839542
+Good at 400: 11
+Ok at 400: 15
+Junk at 400: 9
+radcliffe_camera_2_query.txt, Precision At 400: 0.0875
+radcliffe_camera_2_query.txt, Recall At 400: 0.10057471264367816
+radcliffe_camera_2_query.txt, F1 At 400: 0.09358288770053476
+Good at 450: 11
+Ok at 450: 19
+Junk at 450: 9
+radcliffe_camera_2_query.txt, Precision At 450: 0.08666666666666667
+radcliffe_camera_2_query.txt, Recall At 450: 0.11206896551724138
+radcliffe_camera_2_query.txt, F1 At 450: 0.09774436090225563
+Good at 500: 11
+Ok at 500: 20
+Junk at 500: 10
+radcliffe_camera_2_query.txt, Precision At 500: 0.082
+radcliffe_camera_2_query.txt, Recall At 500: 0.11781609195402298
+radcliffe_camera_2_query.txt, F1 At 500: 0.09669811320754716
+Mean Precision is: 0.082
+Mean Precision is: 0.09714285714285714
+Mean Precision is: 0.08932857142857144
+Mean Precision is: 0.08045977011494253
+Mean Precision is: 0.11781609195402298
+Mean Precision is: 0.10172413793103448
+Mean Precision is: 0.08641975308641976
+Mean Precision is: 0.09774436090225563
+Mean Precision is: 0.09437326366703055
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+cornmarket_3_query.txt, Precision At 300: 0.0
+cornmarket_3_query.txt, Recall At 300: 0.0
+cornmarket_3_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 0
+cornmarket_3_query.txt, Precision At 350: 0.0
+cornmarket_3_query.txt, Recall At 350: 0.0
+cornmarket_3_query.txt, F1 At 350: 0
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 0
+cornmarket_3_query.txt, Precision At 400: 0.0
+cornmarket_3_query.txt, Recall At 400: 0.0
+cornmarket_3_query.txt, F1 At 400: 0
+Good at 450: 0
+Ok at 450: 0
+Junk at 450: 1
+cornmarket_3_query.txt, Precision At 450: 0.0022222222222222222
+cornmarket_3_query.txt, Recall At 450: 0.07692307692307693
+cornmarket_3_query.txt, F1 At 450: 0.004319654427645788
+Good at 500: 0
+Ok at 500: 0
+Junk at 500: 1
+cornmarket_3_query.txt, Precision At 500: 0.002
+cornmarket_3_query.txt, Recall At 500: 0.07692307692307693
+cornmarket_3_query.txt, F1 At 500: 0.003898635477582846
+Mean Precision is: 0.0
+Mean Precision is: 0.0022222222222222222
+Mean Precision is: 0.0008444444444444445
+Mean Precision is: 0.0
+Mean Precision is: 0.07692307692307693
+Mean Precision is: 0.03076923076923077
+Mean Precision is: 0
+Mean Precision is: 0.004319654427645788
+Mean Precision is: 0.0016436579810457266
+Good at 300: 2
+Ok at 300: 1
+Junk at 300: 0
+all_souls_2_query.txt, Precision At 300: 0.01
+all_souls_2_query.txt, Recall At 300: 0.02702702702702703
+all_souls_2_query.txt, F1 At 300: 0.014598540145985401
+Good at 350: 2
+Ok at 350: 1
+Junk at 350: 0
+all_souls_2_query.txt, Precision At 350: 0.008571428571428572
+all_souls_2_query.txt, Recall At 350: 0.02702702702702703
+all_souls_2_query.txt, F1 At 350: 0.013015184381778743
+Good at 400: 2
+Ok at 400: 1
+Junk at 400: 0
+all_souls_2_query.txt, Precision At 400: 0.0075
+all_souls_2_query.txt, Recall At 400: 0.02702702702702703
+all_souls_2_query.txt, F1 At 400: 0.011741682974559688
+Good at 450: 2
+Ok at 450: 1
+Junk at 450: 0
+all_souls_2_query.txt, Precision At 450: 0.006666666666666667
+all_souls_2_query.txt, Recall At 450: 0.02702702702702703
+all_souls_2_query.txt, F1 At 450: 0.010695187165775402
+Good at 500: 2
+Ok at 500: 1
+Junk at 500: 0
+all_souls_2_query.txt, Precision At 500: 0.006
+all_souls_2_query.txt, Recall At 500: 0.02702702702702703
+all_souls_2_query.txt, F1 At 500: 0.00981996726677578
+Mean Precision is: 0.006
+Mean Precision is: 0.01
+Mean Precision is: 0.0077476190476190475
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.00981996726677578
+Mean Precision is: 0.014598540145985401
+Mean Precision is: 0.011974112386975003
+Good at 300: 0
+Ok at 300: 1
+Junk at 300: 0
+bodleian_1_query.txt, Precision At 300: 0.0033333333333333335
+bodleian_1_query.txt, Recall At 300: 0.03333333333333333
+bodleian_1_query.txt, F1 At 300: 0.006060606060606061
+Good at 350: 0
+Ok at 350: 1
+Junk at 350: 0
+bodleian_1_query.txt, Precision At 350: 0.002857142857142857
+bodleian_1_query.txt, Recall At 350: 0.03333333333333333
+bodleian_1_query.txt, F1 At 350: 0.005263157894736842
+Good at 400: 1
+Ok at 400: 3
+Junk at 400: 0
+bodleian_1_query.txt, Precision At 400: 0.01
+bodleian_1_query.txt, Recall At 400: 0.13333333333333333
+bodleian_1_query.txt, F1 At 400: 0.018604651162790697
+Good at 450: 2
+Ok at 450: 3
+Junk at 450: 0
+bodleian_1_query.txt, Precision At 450: 0.011111111111111112
+bodleian_1_query.txt, Recall At 450: 0.16666666666666666
+bodleian_1_query.txt, F1 At 450: 0.020833333333333336
+Good at 500: 2
+Ok at 500: 3
+Junk at 500: 1
+bodleian_1_query.txt, Precision At 500: 0.012
+bodleian_1_query.txt, Recall At 500: 0.2
+bodleian_1_query.txt, F1 At 500: 0.022641509433962263
+Mean Precision is: 0.002857142857142857
+Mean Precision is: 0.012
+Mean Precision is: 0.007860317460317462
+Mean Precision is: 0.03333333333333333
+Mean Precision is: 0.2
+Mean Precision is: 0.11333333333333333
+Mean Precision is: 0.005263157894736842
+Mean Precision is: 0.022641509433962263
+Mean Precision is: 0.01468065157708584
+Good at 300: 8
+Ok at 300: 3
+Junk at 300: 9
+christ_church_1_query.txt, Precision At 300: 0.06666666666666667
+christ_church_1_query.txt, Recall At 300: 0.15037593984962405
+christ_church_1_query.txt, F1 At 300: 0.09237875288683603
+Good at 350: 8
+Ok at 350: 3
+Junk at 350: 12
+christ_church_1_query.txt, Precision At 350: 0.06571428571428571
+christ_church_1_query.txt, Recall At 350: 0.17293233082706766
+christ_church_1_query.txt, F1 At 350: 0.09523809523809522
+Good at 400: 9
+Ok at 400: 3
+Junk at 400: 12
+christ_church_1_query.txt, Precision At 400: 0.06
+christ_church_1_query.txt, Recall At 400: 0.18045112781954886
+christ_church_1_query.txt, F1 At 400: 0.0900562851782364
+Good at 450: 9
+Ok at 450: 4
+Junk at 450: 12
+christ_church_1_query.txt, Precision At 450: 0.05555555555555555
+christ_church_1_query.txt, Recall At 450: 0.18796992481203006
+christ_church_1_query.txt, F1 At 450: 0.08576329331046312
+Good at 500: 9
+Ok at 500: 4
+Junk at 500: 13
+christ_church_1_query.txt, Precision At 500: 0.052
+christ_church_1_query.txt, Recall At 500: 0.19548872180451127
+christ_church_1_query.txt, F1 At 500: 0.08214849921011058
+Mean Precision is: 0.052
+Mean Precision is: 0.06666666666666667
+Mean Precision is: 0.05998730158730159
+Mean Precision is: 0.15037593984962405
+Mean Precision is: 0.19548872180451127
+Mean Precision is: 0.17744360902255638
+Mean Precision is: 0.08214849921011058
+Mean Precision is: 0.09523809523809522
+Mean Precision is: 0.08911698516474827
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+balliol_3_query.txt, Precision At 300: 0.0
+balliol_3_query.txt, Recall At 300: 0.0
+balliol_3_query.txt, F1 At 300: 0
+Good at 350: 1
+Ok at 350: 0
+Junk at 350: 1
+balliol_3_query.txt, Precision At 350: 0.005714285714285714
+balliol_3_query.txt, Recall At 350: 0.1111111111111111
+balliol_3_query.txt, F1 At 350: 0.010869565217391306
+Good at 400: 1
+Ok at 400: 0
+Junk at 400: 1
+balliol_3_query.txt, Precision At 400: 0.005
+balliol_3_query.txt, Recall At 400: 0.1111111111111111
+balliol_3_query.txt, F1 At 400: 0.009569377990430622
+Good at 450: 1
+Ok at 450: 0
+Junk at 450: 2
+balliol_3_query.txt, Precision At 450: 0.006666666666666667
+balliol_3_query.txt, Recall At 450: 0.16666666666666666
+balliol_3_query.txt, F1 At 450: 0.012820512820512822
+Good at 500: 1
+Ok at 500: 0
+Junk at 500: 2
+balliol_3_query.txt, Precision At 500: 0.006
+balliol_3_query.txt, Recall At 500: 0.16666666666666666
+balliol_3_query.txt, F1 At 500: 0.011583011583011584
+Mean Precision is: 0.0
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.004676190476190477
+Mean Precision is: 0.0
+Mean Precision is: 0.16666666666666666
+Mean Precision is: 0.11111111111111109
+Mean Precision is: 0
+Mean Precision is: 0.012820512820512822
+Mean Precision is: 0.008968493522269267
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+keble_1_query.txt, Precision At 300: 0.0
+keble_1_query.txt, Recall At 300: 0.0
+keble_1_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 1
+keble_1_query.txt, Precision At 350: 0.002857142857142857
+keble_1_query.txt, Recall At 350: 0.09090909090909091
+keble_1_query.txt, F1 At 350: 0.005540166204986149
+Good at 400: 1
+Ok at 400: 0
+Junk at 400: 1
+keble_1_query.txt, Precision At 400: 0.005
+keble_1_query.txt, Recall At 400: 0.18181818181818182
+keble_1_query.txt, F1 At 400: 0.009732360097323601
+Good at 450: 2
+Ok at 450: 0
+Junk at 450: 1
+keble_1_query.txt, Precision At 450: 0.006666666666666667
+keble_1_query.txt, Recall At 450: 0.2727272727272727
+keble_1_query.txt, F1 At 450: 0.013015184381778743
+Good at 500: 2
+Ok at 500: 0
+Junk at 500: 1
+keble_1_query.txt, Precision At 500: 0.006
+keble_1_query.txt, Recall At 500: 0.2727272727272727
+keble_1_query.txt, F1 At 500: 0.011741682974559688
+Mean Precision is: 0.0
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.004104761904761905
+Mean Precision is: 0.0
+Mean Precision is: 0.2727272727272727
+Mean Precision is: 0.16363636363636364
+Mean Precision is: 0
+Mean Precision is: 0.013015184381778743
+Mean Precision is: 0.008005878731729636
+Good at 300: 9
+Ok at 300: 13
+Junk at 300: 6
+radcliffe_camera_3_query.txt, Precision At 300: 0.09333333333333334
+radcliffe_camera_3_query.txt, Recall At 300: 0.08045977011494253
+radcliffe_camera_3_query.txt, F1 At 300: 0.08641975308641976
+Good at 350: 10
+Ok at 350: 14
+Junk at 350: 6
+radcliffe_camera_3_query.txt, Precision At 350: 0.08571428571428572
+radcliffe_camera_3_query.txt, Recall At 350: 0.08620689655172414
+radcliffe_camera_3_query.txt, F1 At 350: 0.08595988538681949
+Good at 400: 10
+Ok at 400: 16
+Junk at 400: 8
+radcliffe_camera_3_query.txt, Precision At 400: 0.085
+radcliffe_camera_3_query.txt, Recall At 400: 0.09770114942528736
+radcliffe_camera_3_query.txt, F1 At 400: 0.09090909090909093
+Good at 450: 11
+Ok at 450: 18
+Junk at 450: 9
+radcliffe_camera_3_query.txt, Precision At 450: 0.08444444444444445
+radcliffe_camera_3_query.txt, Recall At 450: 0.10919540229885058
+radcliffe_camera_3_query.txt, F1 At 450: 0.09523809523809525
+Good at 500: 11
+Ok at 500: 18
+Junk at 500: 10
+radcliffe_camera_3_query.txt, Precision At 500: 0.078
+radcliffe_camera_3_query.txt, Recall At 500: 0.11206896551724138
+radcliffe_camera_3_query.txt, F1 At 500: 0.0919811320754717
+Mean Precision is: 0.078
+Mean Precision is: 0.09333333333333334
+Mean Precision is: 0.0852984126984127
+Mean Precision is: 0.08045977011494253
+Mean Precision is: 0.11206896551724138
+Mean Precision is: 0.0971264367816092
+Mean Precision is: 0.08595988538681949
+Mean Precision is: 0.09523809523809525
+Mean Precision is: 0.09010159133917942
+Good at 300: 0
+Ok at 300: 1
+Junk at 300: 0
+pitt_rivers_2_query.txt, Precision At 300: 0.0033333333333333335
+pitt_rivers_2_query.txt, Recall At 300: 0.125
+pitt_rivers_2_query.txt, F1 At 300: 0.006493506493506494
+Good at 350: 0
+Ok at 350: 1
+Junk at 350: 0
+pitt_rivers_2_query.txt, Precision At 350: 0.002857142857142857
+pitt_rivers_2_query.txt, Recall At 350: 0.125
+pitt_rivers_2_query.txt, F1 At 350: 0.005586592178770949
+Good at 400: 0
+Ok at 400: 1
+Junk at 400: 0
+pitt_rivers_2_query.txt, Precision At 400: 0.0025
+pitt_rivers_2_query.txt, Recall At 400: 0.125
+pitt_rivers_2_query.txt, F1 At 400: 0.004901960784313725
+Good at 450: 0
+Ok at 450: 1
+Junk at 450: 0
+pitt_rivers_2_query.txt, Precision At 450: 0.0022222222222222222
+pitt_rivers_2_query.txt, Recall At 450: 0.125
+pitt_rivers_2_query.txt, F1 At 450: 0.0043668122270742364
+Good at 500: 0
+Ok at 500: 1
+Junk at 500: 0
+pitt_rivers_2_query.txt, Precision At 500: 0.002
+pitt_rivers_2_query.txt, Recall At 500: 0.125
+pitt_rivers_2_query.txt, F1 At 500: 0.003937007874015748
+Mean Precision is: 0.002
+Mean Precision is: 0.0033333333333333335
+Mean Precision is: 0.0025825396825396828
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.003937007874015748
+Mean Precision is: 0.006493506493506494
+Mean Precision is: 0.005057175911536231
+Good at 300: 1
+Ok at 300: 1
+Junk at 300: 0
+hertford_1_query.txt, Precision At 300: 0.006666666666666667
+hertford_1_query.txt, Recall At 300: 0.03278688524590164
+hertford_1_query.txt, F1 At 300: 0.0110803324099723
+Good at 350: 1
+Ok at 350: 1
+Junk at 350: 0
+hertford_1_query.txt, Precision At 350: 0.005714285714285714
+hertford_1_query.txt, Recall At 350: 0.03278688524590164
+hertford_1_query.txt, F1 At 350: 0.009732360097323601
+Good at 400: 1
+Ok at 400: 1
+Junk at 400: 0
+hertford_1_query.txt, Precision At 400: 0.005
+hertford_1_query.txt, Recall At 400: 0.03278688524590164
+hertford_1_query.txt, F1 At 400: 0.008676789587852495
+Good at 450: 1
+Ok at 450: 1
+Junk at 450: 0
+hertford_1_query.txt, Precision At 450: 0.0044444444444444444
+hertford_1_query.txt, Recall At 450: 0.03278688524590164
+hertford_1_query.txt, F1 At 450: 0.007827788649706457
+Good at 500: 2
+Ok at 500: 1
+Junk at 500: 0
+hertford_1_query.txt, Precision At 500: 0.006
+hertford_1_query.txt, Recall At 500: 0.04918032786885246
+hertford_1_query.txt, F1 At 500: 0.010695187165775402
+Mean Precision is: 0.0044444444444444444
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.005565079365079366
+Mean Precision is: 0.03278688524590164
+Mean Precision is: 0.04918032786885246
+Mean Precision is: 0.036065573770491806
+Mean Precision is: 0.007827788649706457
+Mean Precision is: 0.0110803324099723
+Mean Precision is: 0.00960249158212605
+Good at 300: 3
+Ok at 300: 0
+Junk at 300: 0
+hertford_2_query.txt, Precision At 300: 0.01
+hertford_2_query.txt, Recall At 300: 0.04918032786885246
+hertford_2_query.txt, F1 At 300: 0.01662049861495845
+Good at 350: 3
+Ok at 350: 1
+Junk at 350: 0
+hertford_2_query.txt, Precision At 350: 0.011428571428571429
+hertford_2_query.txt, Recall At 350: 0.06557377049180328
+hertford_2_query.txt, F1 At 350: 0.019464720194647202
+Good at 400: 3
+Ok at 400: 2
+Junk at 400: 0
+hertford_2_query.txt, Precision At 400: 0.0125
+hertford_2_query.txt, Recall At 400: 0.08196721311475409
+hertford_2_query.txt, F1 At 400: 0.02169197396963124
+Good at 450: 3
+Ok at 450: 2
+Junk at 450: 0
+hertford_2_query.txt, Precision At 450: 0.011111111111111112
+hertford_2_query.txt, Recall At 450: 0.08196721311475409
+hertford_2_query.txt, F1 At 450: 0.019569471624266147
+Good at 500: 3
+Ok at 500: 3
+Junk at 500: 0
+hertford_2_query.txt, Precision At 500: 0.012
+hertford_2_query.txt, Recall At 500: 0.09836065573770492
+hertford_2_query.txt, F1 At 500: 0.021390374331550804
+Mean Precision is: 0.01
+Mean Precision is: 0.0125
+Mean Precision is: 0.01140793650793651
+Mean Precision is: 0.04918032786885246
+Mean Precision is: 0.09836065573770492
+Mean Precision is: 0.07540983606557376
+Mean Precision is: 0.01662049861495845
+Mean Precision is: 0.02169197396963124
+Mean Precision is: 0.019747407747010767
+Good at 300: 2
+Ok at 300: 1
+Junk at 300: 0
+all_souls_1_query.txt, Precision At 300: 0.01
+all_souls_1_query.txt, Recall At 300: 0.02702702702702703
+all_souls_1_query.txt, F1 At 300: 0.014598540145985401
+Good at 350: 2
+Ok at 350: 1
+Junk at 350: 0
+all_souls_1_query.txt, Precision At 350: 0.008571428571428572
+all_souls_1_query.txt, Recall At 350: 0.02702702702702703
+all_souls_1_query.txt, F1 At 350: 0.013015184381778743
+Good at 400: 2
+Ok at 400: 1
+Junk at 400: 0
+all_souls_1_query.txt, Precision At 400: 0.0075
+all_souls_1_query.txt, Recall At 400: 0.02702702702702703
+all_souls_1_query.txt, F1 At 400: 0.011741682974559688
+Good at 450: 2
+Ok at 450: 1
+Junk at 450: 0
+all_souls_1_query.txt, Precision At 450: 0.006666666666666667
+all_souls_1_query.txt, Recall At 450: 0.02702702702702703
+all_souls_1_query.txt, F1 At 450: 0.010695187165775402
+Good at 500: 2
+Ok at 500: 1
+Junk at 500: 1
+all_souls_1_query.txt, Precision At 500: 0.008
+all_souls_1_query.txt, Recall At 500: 0.036036036036036036
+all_souls_1_query.txt, F1 At 500: 0.01309328968903437
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.01
+Mean Precision is: 0.008147619047619048
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.036036036036036036
+Mean Precision is: 0.02882882882882883
+Mean Precision is: 0.010695187165775402
+Mean Precision is: 0.014598540145985401
+Mean Precision is: 0.01262877687142672
+Good at 300: 0
+Ok at 300: 2
+Junk at 300: 0
+bodleian_2_query.txt, Precision At 300: 0.006666666666666667
+bodleian_2_query.txt, Recall At 300: 0.06666666666666667
+bodleian_2_query.txt, F1 At 300: 0.012121212121212121
+Good at 350: 0
+Ok at 350: 2
+Junk at 350: 0
+bodleian_2_query.txt, Precision At 350: 0.005714285714285714
+bodleian_2_query.txt, Recall At 350: 0.06666666666666667
+bodleian_2_query.txt, F1 At 350: 0.010526315789473684
+Good at 400: 0
+Ok at 400: 2
+Junk at 400: 0
+bodleian_2_query.txt, Precision At 400: 0.005
+bodleian_2_query.txt, Recall At 400: 0.06666666666666667
+bodleian_2_query.txt, F1 At 400: 0.009302325581395349
+Good at 450: 0
+Ok at 450: 2
+Junk at 450: 0
+bodleian_2_query.txt, Precision At 450: 0.0044444444444444444
+bodleian_2_query.txt, Recall At 450: 0.06666666666666667
+bodleian_2_query.txt, F1 At 450: 0.008333333333333333
+Good at 500: 0
+Ok at 500: 2
+Junk at 500: 0
+bodleian_2_query.txt, Precision At 500: 0.004
+bodleian_2_query.txt, Recall At 500: 0.06666666666666667
+bodleian_2_query.txt, F1 At 500: 0.007547169811320755
+Mean Precision is: 0.004
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.0051650793650793655
+Mean Precision is: 0.06666666666666667
+Mean Precision is: 0.06666666666666667
+Mean Precision is: 0.06666666666666667
+Mean Precision is: 0.007547169811320755
+Mean Precision is: 0.012121212121212121
+Mean Precision is: 0.009566071327347048
+Good at 300: 0
+Ok at 300: 1
+Junk at 300: 0
+pitt_rivers_1_query.txt, Precision At 300: 0.0033333333333333335
+pitt_rivers_1_query.txt, Recall At 300: 0.125
+pitt_rivers_1_query.txt, F1 At 300: 0.006493506493506494
+Good at 350: 0
+Ok at 350: 1
+Junk at 350: 0
+pitt_rivers_1_query.txt, Precision At 350: 0.002857142857142857
+pitt_rivers_1_query.txt, Recall At 350: 0.125
+pitt_rivers_1_query.txt, F1 At 350: 0.005586592178770949
+Good at 400: 0
+Ok at 400: 1
+Junk at 400: 0
+pitt_rivers_1_query.txt, Precision At 400: 0.0025
+pitt_rivers_1_query.txt, Recall At 400: 0.125
+pitt_rivers_1_query.txt, F1 At 400: 0.004901960784313725
+Good at 450: 0
+Ok at 450: 1
+Junk at 450: 0
+pitt_rivers_1_query.txt, Precision At 450: 0.0022222222222222222
+pitt_rivers_1_query.txt, Recall At 450: 0.125
+pitt_rivers_1_query.txt, F1 At 450: 0.0043668122270742364
+Good at 500: 0
+Ok at 500: 1
+Junk at 500: 0
+pitt_rivers_1_query.txt, Precision At 500: 0.002
+pitt_rivers_1_query.txt, Recall At 500: 0.125
+pitt_rivers_1_query.txt, F1 At 500: 0.003937007874015748
+Mean Precision is: 0.002
+Mean Precision is: 0.0033333333333333335
+Mean Precision is: 0.0025825396825396828
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.003937007874015748
+Mean Precision is: 0.006493506493506494
+Mean Precision is: 0.005057175911536231
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+cornmarket_2_query.txt, Precision At 300: 0.0
+cornmarket_2_query.txt, Recall At 300: 0.0
+cornmarket_2_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 0
+cornmarket_2_query.txt, Precision At 350: 0.0
+cornmarket_2_query.txt, Recall At 350: 0.0
+cornmarket_2_query.txt, F1 At 350: 0
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 0
+cornmarket_2_query.txt, Precision At 400: 0.0
+cornmarket_2_query.txt, Recall At 400: 0.0
+cornmarket_2_query.txt, F1 At 400: 0
+Good at 450: 2
+Ok at 450: 0
+Junk at 450: 0
+cornmarket_2_query.txt, Precision At 450: 0.0044444444444444444
+cornmarket_2_query.txt, Recall At 450: 0.15384615384615385
+cornmarket_2_query.txt, F1 At 450: 0.008639308855291575
+Good at 500: 3
+Ok at 500: 0
+Junk at 500: 0
+cornmarket_2_query.txt, Precision At 500: 0.006
+cornmarket_2_query.txt, Recall At 500: 0.23076923076923078
+cornmarket_2_query.txt, F1 At 500: 0.011695906432748537
+Mean Precision is: 0.0
+Mean Precision is: 0.006
+Mean Precision is: 0.002088888888888889
+Mean Precision is: 0.0
+Mean Precision is: 0.23076923076923078
+Mean Precision is: 0.07692307692307693
+Mean Precision is: 0
+Mean Precision is: 0.011695906432748537
+Mean Precision is: 0.004067043057608023
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+cornmarket_1_query.txt, Precision At 300: 0.0
+cornmarket_1_query.txt, Recall At 300: 0.0
+cornmarket_1_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 1
+cornmarket_1_query.txt, Precision At 350: 0.002857142857142857
+cornmarket_1_query.txt, Recall At 350: 0.07692307692307693
+cornmarket_1_query.txt, F1 At 350: 0.005509641873278236
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 1
+cornmarket_1_query.txt, Precision At 400: 0.0025
+cornmarket_1_query.txt, Recall At 400: 0.07692307692307693
+cornmarket_1_query.txt, F1 At 400: 0.004842615012106538
+Good at 450: 0
+Ok at 450: 0
+Junk at 450: 1
+cornmarket_1_query.txt, Precision At 450: 0.0022222222222222222
+cornmarket_1_query.txt, Recall At 450: 0.07692307692307693
+cornmarket_1_query.txt, F1 At 450: 0.004319654427645788
+Good at 500: 0
+Ok at 500: 0
+Junk at 500: 1
+cornmarket_1_query.txt, Precision At 500: 0.002
+cornmarket_1_query.txt, Recall At 500: 0.07692307692307693
+cornmarket_1_query.txt, F1 At 500: 0.003898635477582846
+Mean Precision is: 0.0
+Mean Precision is: 0.002857142857142857
+Mean Precision is: 0.001915873015873016
+Mean Precision is: 0.0
+Mean Precision is: 0.07692307692307693
+Mean Precision is: 0.06153846153846154
+Mean Precision is: 0
+Mean Precision is: 0.005509641873278236
+Mean Precision is: 0.003714109358122682
+Good at 300: 2
+Ok at 300: 1
+Junk at 300: 0
+ashmolean_1_query.txt, Precision At 300: 0.01
+ashmolean_1_query.txt, Recall At 300: 0.0967741935483871
+ashmolean_1_query.txt, F1 At 300: 0.01812688821752266
+Good at 350: 3
+Ok at 350: 1
+Junk at 350: 0
+ashmolean_1_query.txt, Precision At 350: 0.011428571428571429
+ashmolean_1_query.txt, Recall At 350: 0.12903225806451613
+ashmolean_1_query.txt, F1 At 350: 0.02099737532808399
+Good at 400: 3
+Ok at 400: 1
+Junk at 400: 0
+ashmolean_1_query.txt, Precision At 400: 0.01
+ashmolean_1_query.txt, Recall At 400: 0.12903225806451613
+ashmolean_1_query.txt, F1 At 400: 0.018561484918793503
+Good at 450: 3
+Ok at 450: 2
+Junk at 450: 0
+ashmolean_1_query.txt, Precision At 450: 0.011111111111111112
+ashmolean_1_query.txt, Recall At 450: 0.16129032258064516
+ashmolean_1_query.txt, F1 At 450: 0.02079002079002079
+Good at 500: 3
+Ok at 500: 2
+Junk at 500: 0
+ashmolean_1_query.txt, Precision At 500: 0.01
+ashmolean_1_query.txt, Recall At 500: 0.16129032258064516
+ashmolean_1_query.txt, F1 At 500: 0.018832391713747645
+Mean Precision is: 0.01
+Mean Precision is: 0.011428571428571429
+Mean Precision is: 0.01050793650793651
+Mean Precision is: 0.0967741935483871
+Mean Precision is: 0.16129032258064516
+Mean Precision is: 0.13548387096774192
+Mean Precision is: 0.01812688821752266
+Mean Precision is: 0.02099737532808399
+Mean Precision is: 0.01946163219363372
+Good at 300: 8
+Ok at 300: 3
+Junk at 300: 8
+christ_church_2_query.txt, Precision At 300: 0.06333333333333334
+christ_church_2_query.txt, Recall At 300: 0.14285714285714285
+christ_church_2_query.txt, F1 At 300: 0.08775981524249422
+Good at 350: 8
+Ok at 350: 3
+Junk at 350: 12
+christ_church_2_query.txt, Precision At 350: 0.06571428571428571
+christ_church_2_query.txt, Recall At 350: 0.17293233082706766
+christ_church_2_query.txt, F1 At 350: 0.09523809523809522
+Good at 400: 9
+Ok at 400: 4
+Junk at 400: 12
+christ_church_2_query.txt, Precision At 400: 0.0625
+christ_church_2_query.txt, Recall At 400: 0.18796992481203006
+christ_church_2_query.txt, F1 At 400: 0.09380863039399624
+Good at 450: 9
+Ok at 450: 4
+Junk at 450: 13
+christ_church_2_query.txt, Precision At 450: 0.057777777777777775
+christ_church_2_query.txt, Recall At 450: 0.19548872180451127
+christ_church_2_query.txt, F1 At 450: 0.08919382504288165
+Good at 500: 9
+Ok at 500: 4
+Junk at 500: 14
+christ_church_2_query.txt, Precision At 500: 0.054
+christ_church_2_query.txt, Recall At 500: 0.20300751879699247
+christ_church_2_query.txt, F1 At 500: 0.08530805687203792
+Mean Precision is: 0.054
+Mean Precision is: 0.06571428571428571
+Mean Precision is: 0.060665079365079366
+Mean Precision is: 0.14285714285714285
+Mean Precision is: 0.20300751879699247
+Mean Precision is: 0.18045112781954886
+Mean Precision is: 0.08530805687203792
+Mean Precision is: 0.09523809523809522
+Mean Precision is: 0.09026168455790104
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+balliol_2_query.txt, Precision At 300: 0.0
+balliol_2_query.txt, Recall At 300: 0.0
+balliol_2_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 0
+balliol_2_query.txt, Precision At 350: 0.0
+balliol_2_query.txt, Recall At 350: 0.0
+balliol_2_query.txt, F1 At 350: 0
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 0
+balliol_2_query.txt, Precision At 400: 0.0
+balliol_2_query.txt, Recall At 400: 0.0
+balliol_2_query.txt, F1 At 400: 0
+Good at 450: 0
+Ok at 450: 0
+Junk at 450: 0
+balliol_2_query.txt, Precision At 450: 0.0
+balliol_2_query.txt, Recall At 450: 0.0
+balliol_2_query.txt, F1 At 450: 0
+Good at 500: 0
+Ok at 500: 1
+Junk at 500: 0
+balliol_2_query.txt, Precision At 500: 0.002
+balliol_2_query.txt, Recall At 500: 0.05555555555555555
+balliol_2_query.txt, F1 At 500: 0.0038610038610038607
+Mean Precision is: 0.0
+Mean Precision is: 0.002
+Mean Precision is: 0.0004
+Mean Precision is: 0.0
+Mean Precision is: 0.05555555555555555
+Mean Precision is: 0.01111111111111111
+Mean Precision is: 0
+Mean Precision is: 0.0038610038610038607
+Mean Precision is: 0.0007722007722007721
+Good at 300: 0
+Ok at 300: 1
+Junk at 300: 0
+bodleian_3_query.txt, Precision At 300: 0.0033333333333333335
+bodleian_3_query.txt, Recall At 300: 0.03333333333333333
+bodleian_3_query.txt, F1 At 300: 0.006060606060606061
+Good at 350: 0
+Ok at 350: 1
+Junk at 350: 0
+bodleian_3_query.txt, Precision At 350: 0.002857142857142857
+bodleian_3_query.txt, Recall At 350: 0.03333333333333333
+bodleian_3_query.txt, F1 At 350: 0.005263157894736842
+Good at 400: 0
+Ok at 400: 2
+Junk at 400: 0
+bodleian_3_query.txt, Precision At 400: 0.005
+bodleian_3_query.txt, Recall At 400: 0.06666666666666667
+bodleian_3_query.txt, F1 At 400: 0.009302325581395349
+Good at 450: 0
+Ok at 450: 3
+Junk at 450: 0
+bodleian_3_query.txt, Precision At 450: 0.006666666666666667
+bodleian_3_query.txt, Recall At 450: 0.1
+bodleian_3_query.txt, F1 At 450: 0.0125
+Good at 500: 0
+Ok at 500: 3
+Junk at 500: 1
+bodleian_3_query.txt, Precision At 500: 0.008
+bodleian_3_query.txt, Recall At 500: 0.13333333333333333
+bodleian_3_query.txt, F1 At 500: 0.01509433962264151
+Mean Precision is: 0.002857142857142857
+Mean Precision is: 0.008
+Mean Precision is: 0.005171428571428572
+Mean Precision is: 0.03333333333333333
+Mean Precision is: 0.13333333333333333
+Mean Precision is: 0.07333333333333333
+Mean Precision is: 0.005263157894736842
+Mean Precision is: 0.01509433962264151
+Mean Precision is: 0.00964408583187595
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+keble_3_query.txt, Precision At 300: 0.0
+keble_3_query.txt, Recall At 300: 0.0
+keble_3_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 0
+keble_3_query.txt, Precision At 350: 0.0
+keble_3_query.txt, Recall At 350: 0.0
+keble_3_query.txt, F1 At 350: 0
+Good at 400: 1
+Ok at 400: 0
+Junk at 400: 0
+keble_3_query.txt, Precision At 400: 0.0025
+keble_3_query.txt, Recall At 400: 0.09090909090909091
+keble_3_query.txt, F1 At 400: 0.004866180048661801
+Good at 450: 1
+Ok at 450: 0
+Junk at 450: 0
+keble_3_query.txt, Precision At 450: 0.0022222222222222222
+keble_3_query.txt, Recall At 450: 0.09090909090909091
+keble_3_query.txt, F1 At 450: 0.004338394793926247
+Good at 500: 1
+Ok at 500: 0
+Junk at 500: 0
+keble_3_query.txt, Precision At 500: 0.002
+keble_3_query.txt, Recall At 500: 0.09090909090909091
+keble_3_query.txt, F1 At 500: 0.003913894324853229
+Mean Precision is: 0.0
+Mean Precision is: 0.0025
+Mean Precision is: 0.0013444444444444445
+Mean Precision is: 0.0
+Mean Precision is: 0.09090909090909091
+Mean Precision is: 0.05454545454545454
+Mean Precision is: 0
+Mean Precision is: 0.004866180048661801
+Mean Precision is: 0.0026236938334882553
+Good at 300: 2
+Ok at 300: 1
+Junk at 300: 0
+all_souls_3_query.txt, Precision At 300: 0.01
+all_souls_3_query.txt, Recall At 300: 0.02702702702702703
+all_souls_3_query.txt, F1 At 300: 0.014598540145985401
+Good at 350: 2
+Ok at 350: 1
+Junk at 350: 0
+all_souls_3_query.txt, Precision At 350: 0.008571428571428572
+all_souls_3_query.txt, Recall At 350: 0.02702702702702703
+all_souls_3_query.txt, F1 At 350: 0.013015184381778743
+Good at 400: 2
+Ok at 400: 1
+Junk at 400: 0
+all_souls_3_query.txt, Precision At 400: 0.0075
+all_souls_3_query.txt, Recall At 400: 0.02702702702702703
+all_souls_3_query.txt, F1 At 400: 0.011741682974559688
+Good at 450: 2
+Ok at 450: 1
+Junk at 450: 0
+all_souls_3_query.txt, Precision At 450: 0.006666666666666667
+all_souls_3_query.txt, Recall At 450: 0.02702702702702703
+all_souls_3_query.txt, F1 At 450: 0.010695187165775402
+Good at 500: 2
+Ok at 500: 1
+Junk at 500: 0
+all_souls_3_query.txt, Precision At 500: 0.006
+all_souls_3_query.txt, Recall At 500: 0.02702702702702703
+all_souls_3_query.txt, F1 At 500: 0.00981996726677578
+Mean Precision is: 0.006
+Mean Precision is: 0.01
+Mean Precision is: 0.0077476190476190475
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.02702702702702703
+Mean Precision is: 0.00981996726677578
+Mean Precision is: 0.014598540145985401
+Mean Precision is: 0.011974112386975003
+Good at 300: 1
+Ok at 300: 4
+Junk at 300: 2
+magdalen_2_query.txt, Precision At 300: 0.023333333333333334
+magdalen_2_query.txt, Recall At 300: 0.06796116504854369
+magdalen_2_query.txt, F1 At 300: 0.034739454094292806
+Good at 350: 1
+Ok at 350: 5
+Junk at 350: 2
+magdalen_2_query.txt, Precision At 350: 0.022857142857142857
+magdalen_2_query.txt, Recall At 350: 0.07766990291262135
+magdalen_2_query.txt, F1 At 350: 0.03532008830022075
+Good at 400: 1
+Ok at 400: 6
+Junk at 400: 2
+magdalen_2_query.txt, Precision At 400: 0.0225
+magdalen_2_query.txt, Recall At 400: 0.08737864077669903
+magdalen_2_query.txt, F1 At 400: 0.03578528827037773
+Good at 450: 2
+Ok at 450: 6
+Junk at 450: 3
+magdalen_2_query.txt, Precision At 450: 0.024444444444444446
+magdalen_2_query.txt, Recall At 450: 0.10679611650485436
+magdalen_2_query.txt, F1 At 450: 0.03978300180831826
+Good at 500: 2
+Ok at 500: 6
+Junk at 500: 4
+magdalen_2_query.txt, Precision At 500: 0.024
+magdalen_2_query.txt, Recall At 500: 0.11650485436893204
+magdalen_2_query.txt, F1 At 500: 0.03980099502487563
+Mean Precision is: 0.0225
+Mean Precision is: 0.024444444444444446
+Mean Precision is: 0.02342698412698413
+Mean Precision is: 0.06796116504854369
+Mean Precision is: 0.11650485436893204
+Mean Precision is: 0.0912621359223301
+Mean Precision is: 0.034739454094292806
+Mean Precision is: 0.03980099502487563
+Mean Precision is: 0.037085765499617035
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+keble_2_query.txt, Precision At 300: 0.0
+keble_2_query.txt, Recall At 300: 0.0
+keble_2_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 1
+keble_2_query.txt, Precision At 350: 0.002857142857142857
+keble_2_query.txt, Recall At 350: 0.09090909090909091
+keble_2_query.txt, F1 At 350: 0.005540166204986149
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 1
+keble_2_query.txt, Precision At 400: 0.0025
+keble_2_query.txt, Recall At 400: 0.09090909090909091
+keble_2_query.txt, F1 At 400: 0.004866180048661801
+Good at 450: 1
+Ok at 450: 0
+Junk at 450: 1
+keble_2_query.txt, Precision At 450: 0.0044444444444444444
+keble_2_query.txt, Recall At 450: 0.18181818181818182
+keble_2_query.txt, F1 At 450: 0.008676789587852495
+Good at 500: 2
+Ok at 500: 0
+Junk at 500: 1
+keble_2_query.txt, Precision At 500: 0.006
+keble_2_query.txt, Recall At 500: 0.2727272727272727
+keble_2_query.txt, F1 At 500: 0.011741682974559688
+Mean Precision is: 0.0
+Mean Precision is: 0.006
+Mean Precision is: 0.0031603174603174605
+Mean Precision is: 0.0
+Mean Precision is: 0.2727272727272727
+Mean Precision is: 0.12727272727272726
+Mean Precision is: 0
+Mean Precision is: 0.011741682974559688
+Mean Precision is: 0.006164963763212026
+Good at 300: 9
+Ok at 300: 13
+Junk at 300: 6
+radcliffe_camera_1_query.txt, Precision At 300: 0.09333333333333334
+radcliffe_camera_1_query.txt, Recall At 300: 0.08045977011494253
+radcliffe_camera_1_query.txt, F1 At 300: 0.08641975308641976
+Good at 350: 11
+Ok at 350: 14
+Junk at 350: 7
+radcliffe_camera_1_query.txt, Precision At 350: 0.09142857142857143
+radcliffe_camera_1_query.txt, Recall At 350: 0.09195402298850575
+radcliffe_camera_1_query.txt, F1 At 350: 0.09169054441260746
+Good at 400: 11
+Ok at 400: 14
+Junk at 400: 8
+radcliffe_camera_1_query.txt, Precision At 400: 0.0825
+radcliffe_camera_1_query.txt, Recall At 400: 0.09482758620689655
+radcliffe_camera_1_query.txt, F1 At 400: 0.08823529411764706
+Good at 450: 11
+Ok at 450: 17
+Junk at 450: 9
+radcliffe_camera_1_query.txt, Precision At 450: 0.08222222222222222
+radcliffe_camera_1_query.txt, Recall At 450: 0.10632183908045977
+radcliffe_camera_1_query.txt, F1 At 450: 0.09273182957393483
+Good at 500: 11
+Ok at 500: 19
+Junk at 500: 11
+radcliffe_camera_1_query.txt, Precision At 500: 0.082
+radcliffe_camera_1_query.txt, Recall At 500: 0.11781609195402298
+radcliffe_camera_1_query.txt, F1 At 500: 0.09669811320754716
+Mean Precision is: 0.082
+Mean Precision is: 0.09333333333333334
+Mean Precision is: 0.0862968253968254
+Mean Precision is: 0.08045977011494253
+Mean Precision is: 0.11781609195402298
+Mean Precision is: 0.09827586206896552
+Mean Precision is: 0.08641975308641976
+Mean Precision is: 0.09669811320754716
+Mean Precision is: 0.09115510687963127
+Good at 300: 5
+Ok at 300: 2
+Junk at 300: 0
+ashmolean_3_query.txt, Precision At 300: 0.023333333333333334
+ashmolean_3_query.txt, Recall At 300: 0.22580645161290322
+ashmolean_3_query.txt, F1 At 300: 0.04229607250755287
+Good at 350: 5
+Ok at 350: 2
+Junk at 350: 0
+ashmolean_3_query.txt, Precision At 350: 0.02
+ashmolean_3_query.txt, Recall At 350: 0.22580645161290322
+ashmolean_3_query.txt, F1 At 350: 0.03674540682414698
+Good at 400: 5
+Ok at 400: 2
+Junk at 400: 0
+ashmolean_3_query.txt, Precision At 400: 0.0175
+ashmolean_3_query.txt, Recall At 400: 0.22580645161290322
+ashmolean_3_query.txt, F1 At 400: 0.03248259860788864
+Good at 450: 5
+Ok at 450: 2
+Junk at 450: 0
+ashmolean_3_query.txt, Precision At 450: 0.015555555555555555
+ashmolean_3_query.txt, Recall At 450: 0.22580645161290322
+ashmolean_3_query.txt, F1 At 450: 0.029106029106029108
+Good at 500: 5
+Ok at 500: 2
+Junk at 500: 0
+ashmolean_3_query.txt, Precision At 500: 0.014
+ashmolean_3_query.txt, Recall At 500: 0.22580645161290322
+ashmolean_3_query.txt, F1 At 500: 0.026365348399246702
+Mean Precision is: 0.014
+Mean Precision is: 0.023333333333333334
+Mean Precision is: 0.01807777777777778
+Mean Precision is: 0.22580645161290322
+Mean Precision is: 0.22580645161290322
+Mean Precision is: 0.2258064516129032
+Mean Precision is: 0.026365348399246702
+Mean Precision is: 0.04229607250755287
+Mean Precision is: 0.03339909108897286
+Good at 300: 0
+Ok at 300: 0
+Junk at 300: 0
+balliol_1_query.txt, Precision At 300: 0.0
+balliol_1_query.txt, Recall At 300: 0.0
+balliol_1_query.txt, F1 At 300: 0
+Good at 350: 0
+Ok at 350: 0
+Junk at 350: 0
+balliol_1_query.txt, Precision At 350: 0.0
+balliol_1_query.txt, Recall At 350: 0.0
+balliol_1_query.txt, F1 At 350: 0
+Good at 400: 0
+Ok at 400: 0
+Junk at 400: 0
+balliol_1_query.txt, Precision At 400: 0.0
+balliol_1_query.txt, Recall At 400: 0.0
+balliol_1_query.txt, F1 At 400: 0
+Good at 450: 0
+Ok at 450: 0
+Junk at 450: 0
+balliol_1_query.txt, Precision At 450: 0.0
+balliol_1_query.txt, Recall At 450: 0.0
+balliol_1_query.txt, F1 At 450: 0
+Good at 500: 0
+Ok at 500: 1
+Junk at 500: 0
+balliol_1_query.txt, Precision At 500: 0.002
+balliol_1_query.txt, Recall At 500: 0.05555555555555555
+balliol_1_query.txt, F1 At 500: 0.0038610038610038607
+Mean Precision is: 0.0
+Mean Precision is: 0.002
+Mean Precision is: 0.0004
+Mean Precision is: 0.0
+Mean Precision is: 0.05555555555555555
+Mean Precision is: 0.01111111111111111
+Mean Precision is: 0
+Mean Precision is: 0.0038610038610038607
+Mean Precision is: 0.0007722007722007721
+Good at 300: 4
+Ok at 300: 1
+Junk at 300: 0
+ashmolean_2_query.txt, Precision At 300: 0.016666666666666666
+ashmolean_2_query.txt, Recall At 300: 0.16129032258064516
+ashmolean_2_query.txt, F1 At 300: 0.030211480362537763
+Good at 350: 5
+Ok at 350: 1
+Junk at 350: 1
+ashmolean_2_query.txt, Precision At 350: 0.02
+ashmolean_2_query.txt, Recall At 350: 0.22580645161290322
+ashmolean_2_query.txt, F1 At 350: 0.03674540682414698
+Good at 400: 5
+Ok at 400: 1
+Junk at 400: 1
+ashmolean_2_query.txt, Precision At 400: 0.0175
+ashmolean_2_query.txt, Recall At 400: 0.22580645161290322
+ashmolean_2_query.txt, F1 At 400: 0.03248259860788864
+Good at 450: 5
+Ok at 450: 1
+Junk at 450: 1
+ashmolean_2_query.txt, Precision At 450: 0.015555555555555555
+ashmolean_2_query.txt, Recall At 450: 0.22580645161290322
+ashmolean_2_query.txt, F1 At 450: 0.029106029106029108
+Good at 500: 5
+Ok at 500: 1
+Junk at 500: 1
+ashmolean_2_query.txt, Precision At 500: 0.014
+ashmolean_2_query.txt, Recall At 500: 0.22580645161290322
+ashmolean_2_query.txt, F1 At 500: 0.026365348399246702
+Mean Precision is: 0.014
+Mean Precision is: 0.02
+Mean Precision is: 0.016744444444444444
+Mean Precision is: 0.16129032258064516
+Mean Precision is: 0.22580645161290322
+Mean Precision is: 0.2129032258064516
+Mean Precision is: 0.026365348399246702
+Mean Precision is: 0.03674540682414698
+Mean Precision is: 0.030982172659969838
+Good at 300: 1
+Ok at 300: 4
+Junk at 300: 2
+magdalen_3_query.txt, Precision At 300: 0.023333333333333334
+magdalen_3_query.txt, Recall At 300: 0.06796116504854369
+magdalen_3_query.txt, F1 At 300: 0.034739454094292806
+Good at 350: 1
+Ok at 350: 5
+Junk at 350: 2
+magdalen_3_query.txt, Precision At 350: 0.022857142857142857
+magdalen_3_query.txt, Recall At 350: 0.07766990291262135
+magdalen_3_query.txt, F1 At 350: 0.03532008830022075
+Good at 400: 2
+Ok at 400: 6
+Junk at 400: 2
+magdalen_3_query.txt, Precision At 400: 0.025
+magdalen_3_query.txt, Recall At 400: 0.0970873786407767
+magdalen_3_query.txt, F1 At 400: 0.039761431411530816
+Good at 450: 2
+Ok at 450: 7
+Junk at 450: 3
+magdalen_3_query.txt, Precision At 450: 0.02666666666666667
+magdalen_3_query.txt, Recall At 450: 0.11650485436893204
+magdalen_3_query.txt, F1 At 450: 0.0433996383363472
+Good at 500: 2
+Ok at 500: 7
+Junk at 500: 5
+magdalen_3_query.txt, Precision At 500: 0.028
+magdalen_3_query.txt, Recall At 500: 0.13592233009708737
+magdalen_3_query.txt, F1 At 500: 0.04643449419568823
+Mean Precision is: 0.022857142857142857
+Mean Precision is: 0.028
+Mean Precision is: 0.025171428571428574
+Mean Precision is: 0.06796116504854369
+Mean Precision is: 0.13592233009708737
+Mean Precision is: 0.09902912621359224
+Mean Precision is: 0.034739454094292806
+Mean Precision is: 0.04643449419568823
+Mean Precision is: 0.03993102126761596
+Good at 300: 0
+Ok at 300: 1
+Junk at 300: 0
+pitt_rivers_3_query.txt, Precision At 300: 0.0033333333333333335
+pitt_rivers_3_query.txt, Recall At 300: 0.125
+pitt_rivers_3_query.txt, F1 At 300: 0.006493506493506494
+Good at 350: 0
+Ok at 350: 1
+Junk at 350: 0
+pitt_rivers_3_query.txt, Precision At 350: 0.002857142857142857
+pitt_rivers_3_query.txt, Recall At 350: 0.125
+pitt_rivers_3_query.txt, F1 At 350: 0.005586592178770949
+Good at 400: 0
+Ok at 400: 1
+Junk at 400: 0
+pitt_rivers_3_query.txt, Precision At 400: 0.0025
+pitt_rivers_3_query.txt, Recall At 400: 0.125
+pitt_rivers_3_query.txt, F1 At 400: 0.004901960784313725
+Good at 450: 0
+Ok at 450: 1
+Junk at 450: 0
+pitt_rivers_3_query.txt, Precision At 450: 0.0022222222222222222
+pitt_rivers_3_query.txt, Recall At 450: 0.125
+pitt_rivers_3_query.txt, F1 At 450: 0.0043668122270742364
+Good at 500: 0
+Ok at 500: 1
+Junk at 500: 0
+pitt_rivers_3_query.txt, Precision At 500: 0.002
+pitt_rivers_3_query.txt, Recall At 500: 0.125
+pitt_rivers_3_query.txt, F1 At 500: 0.003937007874015748
+Mean Precision is: 0.002
+Mean Precision is: 0.0033333333333333335
+Mean Precision is: 0.0025825396825396828
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.125
+Mean Precision is: 0.003937007874015748
+Mean Precision is: 0.006493506493506494
+Mean Precision is: 0.005057175911536231
+Good at 300: 1
+Ok at 300: 4
+Junk at 300: 2
+magdalen_1_query.txt, Precision At 300: 0.023333333333333334
+magdalen_1_query.txt, Recall At 300: 0.06796116504854369
+magdalen_1_query.txt, F1 At 300: 0.034739454094292806
+Good at 350: 2
+Ok at 350: 5
+Junk at 350: 2
+magdalen_1_query.txt, Precision At 350: 0.025714285714285714
+magdalen_1_query.txt, Recall At 350: 0.08737864077669903
+magdalen_1_query.txt, F1 At 350: 0.039735099337748346
+Good at 400: 2
+Ok at 400: 6
+Junk at 400: 2
+magdalen_1_query.txt, Precision At 400: 0.025
+magdalen_1_query.txt, Recall At 400: 0.0970873786407767
+magdalen_1_query.txt, F1 At 400: 0.039761431411530816
+Good at 450: 2
+Ok at 450: 7
+Junk at 450: 4
+magdalen_1_query.txt, Precision At 450: 0.028888888888888888
+magdalen_1_query.txt, Recall At 450: 0.1262135922330097
+magdalen_1_query.txt, F1 At 450: 0.04701627486437613
+Good at 500: 2
+Ok at 500: 7
+Junk at 500: 6
+magdalen_1_query.txt, Precision At 500: 0.03
+magdalen_1_query.txt, Recall At 500: 0.14563106796116504
+magdalen_1_query.txt, F1 At 500: 0.04975124378109452
+Mean Precision is: 0.023333333333333334
+Mean Precision is: 0.03
+Mean Precision is: 0.026587301587301587
+Mean Precision is: 0.06796116504854369
+Mean Precision is: 0.14563106796116504
+Mean Precision is: 0.10485436893203884
+Mean Precision is: 0.034739454094292806
+Mean Precision is: 0.04975124378109452
+Mean Precision is: 0.04220070069780853
+Good at 300: 2
+Ok at 300: 0
+Junk at 300: 0
+hertford_3_query.txt, Precision At 300: 0.006666666666666667
+hertford_3_query.txt, Recall At 300: 0.03278688524590164
+hertford_3_query.txt, F1 At 300: 0.0110803324099723
+Good at 350: 2
+Ok at 350: 1
+Junk at 350: 0
+hertford_3_query.txt, Precision At 350: 0.008571428571428572
+hertford_3_query.txt, Recall At 350: 0.04918032786885246
+hertford_3_query.txt, F1 At 350: 0.014598540145985403
+Good at 400: 3
+Ok at 400: 1
+Junk at 400: 0
+hertford_3_query.txt, Precision At 400: 0.01
+hertford_3_query.txt, Recall At 400: 0.06557377049180328
+hertford_3_query.txt, F1 At 400: 0.01735357917570499
+Good at 450: 3
+Ok at 450: 2
+Junk at 450: 0
+hertford_3_query.txt, Precision At 450: 0.011111111111111112
+hertford_3_query.txt, Recall At 450: 0.08196721311475409
+hertford_3_query.txt, F1 At 450: 0.019569471624266147
+Good at 500: 3
+Ok at 500: 2
+Junk at 500: 0
+hertford_3_query.txt, Precision At 500: 0.01
+hertford_3_query.txt, Recall At 500: 0.08196721311475409
+hertford_3_query.txt, F1 At 500: 0.017825311942959002
+Mean Precision is: 0.006666666666666667
+Mean Precision is: 0.011111111111111112
+Mean Precision is: 0.009269841269841272
+Mean Precision is: 0.03278688524590164
+Mean Precision is: 0.08196721311475409
+Mean Precision is: 0.0622950819672131
+Mean Precision is: 0.0110803324099723
+Mean Precision is: 0.019569471624266147
+Mean Precision is: 0.016085447059777568
